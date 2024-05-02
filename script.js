@@ -5,7 +5,7 @@ const app=document.getElementById('app')
 btn.addEventListener('click',()=>{
 	if(app.className=="day"){
 
-		app.className="nigth"
+		app.className="night"
 	}
 	else{
 		app.className='day'
