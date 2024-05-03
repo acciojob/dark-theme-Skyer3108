@@ -1,9 +1,13 @@
 #app{
   height:90vh;
+	text-align:center;
 }
 .night{
   background-color: black;
-  color:white;
+  
+}
+#ptag{
+	color:#03fcf0;
 }
 
 #swap{
